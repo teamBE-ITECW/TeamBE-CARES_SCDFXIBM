@@ -1,0 +1,1850 @@
+﻿{
+  "intents": [
+    {
+      "intent": "46-55",
+      "examples": [
+        {
+          "text": "50"
+        },
+        {
+          "text": "46"
+        },
+        {
+          "text": "47"
+        },
+        {
+          "text": "48"
+        },
+        {
+          "text": "55"
+        },
+        {
+          "text": "54"
+        },
+        {
+          "text": "53"
+        },
+        {
+          "text": "51"
+        },
+        {
+          "text": "49"
+        },
+        {
+          "text": "52"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "3",
+      "examples": [
+        {
+          "text": "3"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "police",
+      "examples": [
+        {
+          "text": "Police"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "36-45",
+      "examples": [
+        {
+          "text": "37"
+        },
+        {
+          "text": "39"
+        },
+        {
+          "text": "38"
+        },
+        {
+          "text": "36"
+        },
+        {
+          "text": "45"
+        },
+        {
+          "text": "44"
+        },
+        {
+          "text": "43"
+        },
+        {
+          "text": "42"
+        },
+        {
+          "text": "41"
+        },
+        {
+          "text": "40"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "d",
+      "examples": [
+        {
+          "text": "d"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "2",
+      "examples": [
+        {
+          "text": "2"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Yes",
+      "examples": [
+        {
+          "text": "yes"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "morethan65",
+      "examples": [
+        {
+          "text": "81"
+        },
+        {
+          "text": "65"
+        },
+        {
+          "text": "66"
+        },
+        {
+          "text": "67"
+        },
+        {
+          "text": "68"
+        },
+        {
+          "text": "69"
+        },
+        {
+          "text": "70"
+        },
+        {
+          "text": "71"
+        },
+        {
+          "text": "72"
+        },
+        {
+          "text": "73"
+        },
+        {
+          "text": "74"
+        },
+        {
+          "text": "75"
+        },
+        {
+          "text": "76"
+        },
+        {
+          "text": "77"
+        },
+        {
+          "text": "78"
+        },
+        {
+          "text": "79"
+        },
+        {
+          "text": "80"
+        },
+        {
+          "text": "82"
+        },
+        {
+          "text": "83"
+        },
+        {
+          "text": "84"
+        },
+        {
+          "text": "85"
+        },
+        {
+          "text": "86"
+        },
+        {
+          "text": "87"
+        },
+        {
+          "text": "88"
+        },
+        {
+          "text": "89"
+        },
+        {
+          "text": "90"
+        },
+        {
+          "text": "91"
+        },
+        {
+          "text": "92"
+        },
+        {
+          "text": "93"
+        },
+        {
+          "text": "94"
+        },
+        {
+          "text": "95"
+        },
+        {
+          "text": "96"
+        },
+        {
+          "text": "97"
+        },
+        {
+          "text": "98"
+        },
+        {
+          "text": "99"
+        },
+        {
+          "text": "100"
+        },
+        {
+          "text": "101"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "f",
+      "examples": [
+        {
+          "text": "f"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "hastag",
+      "examples": [
+        {
+          "text": "#"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Male",
+      "examples": [
+        {
+          "text": "Male"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "No",
+      "examples": [
+        {
+          "text": "no"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "a",
+      "examples": [
+        {
+          "text": "a"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Female",
+      "examples": [
+        {
+          "text": "Female"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "c",
+      "examples": [
+        {
+          "text": "c"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "15-25",
+      "examples": [
+        {
+          "text": "19"
+        },
+        {
+          "text": "18"
+        },
+        {
+          "text": "17"
+        },
+        {
+          "text": "15"
+        },
+        {
+          "text": "25"
+        },
+        {
+          "text": "24"
+        },
+        {
+          "text": "23"
+        },
+        {
+          "text": "22"
+        },
+        {
+          "text": "21"
+        },
+        {
+          "text": "20"
+        },
+        {
+          "text": "16"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "b",
+      "examples": [
+        {
+          "text": "b"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "26-35",
+      "examples": [
+        {
+          "text": "31"
+        },
+        {
+          "text": "29"
+        },
+        {
+          "text": "30"
+        },
+        {
+          "text": "32"
+        },
+        {
+          "text": "33"
+        },
+        {
+          "text": "34"
+        },
+        {
+          "text": "35"
+        },
+        {
+          "text": "28"
+        },
+        {
+          "text": "27"
+        },
+        {
+          "text": "26"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "e",
+      "examples": [
+        {
+          "text": "e"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Ambulance",
+      "examples": [
+        {
+          "text": "Ambulance"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "1",
+      "examples": [
+        {
+          "text": "1"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "56-65",
+      "examples": [
+        {
+          "text": "64"
+        },
+        {
+          "text": "65"
+        },
+        {
+          "text": "62"
+        },
+        {
+          "text": "63"
+        },
+        {
+          "text": "56"
+        },
+        {
+          "text": "57"
+        },
+        {
+          "text": "58"
+        },
+        {
+          "text": "59"
+        },
+        {
+          "text": "60"
+        },
+        {
+          "text": "61"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "firestation",
+      "examples": [
+        {
+          "text": "Fire Station"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "4",
+      "examples": [
+        {
+          "text": "4"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Yes",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "no",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "# ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1592047353313",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_12_1592047353332",
+      "previous_sibling": "node_11_1592047353332"
+    },
+    {
+      "type": "standard",
+      "title": "2",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1592047353313",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1592040145750"
+      },
+      "conditions": "#2",
+      "dialog_node": "node_11_1592047353332"
+    },
+    {
+      "type": "standard",
+      "title": "# ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_38_1592047621280",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_40_1592047621280",
+      "previous_sibling": "node_39_1592047621280"
+    },
+    {
+      "type": "standard",
+      "title": "2",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_38_1592047621280",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1592040145750"
+      },
+      "conditions": "#2",
+      "dialog_node": "node_39_1592047621280"
+    },
+    {
+      "type": "standard",
+      "title": "#",
+      "parent": "node_6_1592043964787",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_3_1592044233199",
+      "previous_sibling": "node_3_1592044203603"
+    },
+    {
+      "type": "standard",
+      "title": "4",
+      "parent": "node_6_1592043964787",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1592040154698"
+      },
+      "conditions": "#4",
+      "dialog_node": "node_3_1592044203603"
+    },
+    {
+      "type": "standard",
+      "title": "No",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you for using our chat-bot. Have a nice day"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1592040152547",
+      "conditions": "#No",
+      "dialog_node": "node_2_1592043647602",
+      "previous_sibling": "node_1_1592043617167"
+    },
+    {
+      "type": "standard",
+      "title": "yes",
+      "output": {},
+      "parent": "node_2_1592040152547",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#Yes",
+      "dialog_node": "node_1_1592043617167"
+    },
+    {
+      "type": "standard",
+      "title": "# ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1592044626098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_6_1592044792539",
+      "previous_sibling": "node_5_1592044779274"
+    },
+    {
+      "type": "standard",
+      "title": "4  ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1592044626098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1592040154698"
+      },
+      "conditions": "#4",
+      "dialog_node": "node_5_1592044779274"
+    },
+    {
+      "type": "standard",
+      "title": "# ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_32_1592047621280",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_34_1592047621280",
+      "previous_sibling": "node_33_1592047621280"
+    },
+    {
+      "type": "standard",
+      "title": "2",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_32_1592047621280",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1592040145750"
+      },
+      "conditions": "#2",
+      "dialog_node": "node_33_1592047621280"
+    },
+    {
+      "type": "standard",
+      "title": "# ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_19_1592047477788",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_21_1592047477802",
+      "previous_sibling": "node_20_1592047477802"
+    },
+    {
+      "type": "standard",
+      "title": "2",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_19_1592047477788",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1592040145750"
+      },
+      "conditions": "#2",
+      "dialog_node": "node_20_1592047477802"
+    },
+    {
+      "type": "standard",
+      "title": "wrong input",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I only have a limited response selection, please try again."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1592040145750",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1592040145750"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_45_1592048071953",
+      "previous_sibling": "node_25_1592047621261"
+    },
+    {
+      "type": "standard",
+      "title": "female",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please tell me you age\na)15 to 25\nb)26 to 35\nc)36 to 45\nd)46 to 55\ne)56 to 65\nf)65 and above"
+              },
+              {
+                "text": "Enter the corresponding alphabet"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1592040145750",
+      "conditions": "#Female",
+      "dialog_node": "node_25_1592047621261",
+      "previous_sibling": "node_7_1592041270160"
+    },
+    {
+      "type": "standard",
+      "title": "male",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please tell me you age\na)15 to 25\nb)26 to 35\nc)36 to 45\nd)46 to 55\ne)56 to 65\nf)65 and above"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1592040145750",
+      "conditions": "#Male",
+      "dialog_node": "node_7_1592041270160"
+    },
+    {
+      "type": "standard",
+      "title": "# ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_13_1592047400669",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_15_1592047400693",
+      "previous_sibling": "node_14_1592047400693"
+    },
+    {
+      "type": "standard",
+      "title": "2",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_13_1592047400669",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1592040145750"
+      },
+      "conditions": "#2",
+      "dialog_node": "node_14_1592047400693"
+    },
+    {
+      "type": "standard",
+      "title": "#",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1592044380221",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_4_1592044585492",
+      "previous_sibling": "node_3_1592044566899"
+    },
+    {
+      "type": "standard",
+      "title": "4 ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1592044380221",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1592040154698"
+      },
+      "conditions": "#4",
+      "dialog_node": "node_3_1592044566899"
+    },
+    {
+      "type": "standard",
+      "title": "# ",
+      "output": {},
+      "parent": "node_1_1592045287571",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_9_1592045518300",
+      "previous_sibling": "node_8_1592045492887"
+    },
+    {
+      "type": "standard",
+      "title": "2",
+      "output": {},
+      "parent": "node_1_1592045287571",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1592040145750"
+      },
+      "conditions": "#2",
+      "dialog_node": "node_8_1592045492887"
+    },
+    {
+      "type": "standard",
+      "title": "Ambulance",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please see below contacts\n-For cases which do not require emergency response, you can call 1777 for a non-emergency ambulance at a fee.\n-Call 995 For Emergencies Only"
+              },
+              {
+                "text": "If you wish to find out another hotline number type in \"4\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1592040154698",
+      "conditions": "#Ambulance",
+      "dialog_node": "node_2_1592044380221",
+      "previous_sibling": "node_6_1592043964787"
+    },
+    {
+      "type": "standard",
+      "title": "wrong input - copy1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I only have a limited response selection, please try again."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1592040154698",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1592040154698"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_7_1592044845969",
+      "previous_sibling": "node_8_1592044626098"
+    },
+    {
+      "type": "standard",
+      "title": "Fire station",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please see below contacts\n-Call 995 For Emergencies Only\n-Fire Hazard Reporting --- 1800 280 0000"
+              },
+              {
+                "text": "If you wish to find out another hotline number type in \"4\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1592040154698",
+      "conditions": "#firestation",
+      "dialog_node": "node_8_1592044626098",
+      "previous_sibling": "node_2_1592044380221"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I only have a limited response selection, please try again."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1592040154698",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1592040154698"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_7_1592043906959",
+      "previous_sibling": "node_7_1592044845969"
+    },
+    {
+      "type": "standard",
+      "title": "police",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Below are the Police Contact hotlines for emergencies and non-emergencies\nEmergencies --- 999\nPolice Hotline (for crime-related information) --- 1800 255 0000\nTraffic Police Information Hotline (for traffic related enquiries) --- 6547 0000\nEmergency SMS --- 71999\nSMS (Registered DHS Users – Deaf, Hard of Hearing Services) --- 70999\n\n"
+              },
+              {
+                "text": "If you wish to find out another hotline number type in \"4\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1592040154698",
+      "conditions": "#police",
+      "dialog_node": "node_6_1592043964787"
+    },
+    {
+      "type": "standard",
+      "title": "# ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_29_1592047621279",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_31_1592047621279",
+      "previous_sibling": "node_30_1592047621279"
+    },
+    {
+      "type": "standard",
+      "title": "2",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_29_1592047621279",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1592040145750"
+      },
+      "conditions": "#2",
+      "dialog_node": "node_30_1592047621279"
+    },
+    {
+      "type": "standard",
+      "title": "# ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_35_1592047621280",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_37_1592047621280",
+      "previous_sibling": "node_36_1592047621280"
+    },
+    {
+      "type": "standard",
+      "title": "2",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_35_1592047621280",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1592040145750"
+      },
+      "conditions": "#2",
+      "dialog_node": "node_36_1592047621280"
+    },
+    {
+      "type": "standard",
+      "title": "# ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1592047621280",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_43_1592047621280",
+      "previous_sibling": "node_42_1592047621280"
+    },
+    {
+      "type": "standard",
+      "title": "2",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_41_1592047621280",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1592040145750"
+      },
+      "conditions": "#2",
+      "dialog_node": "node_42_1592047621280"
+    },
+    {
+      "type": "standard",
+      "title": "f",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your average heart rate is 73bpm to 76bpm\n"
+              },
+              {
+                "text": "If you wish to enter another age type in \"2\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_25_1592047621261",
+      "conditions": "#f",
+      "dialog_node": "node_41_1592047621280",
+      "previous_sibling": "node_38_1592047621280"
+    },
+    {
+      "type": "standard",
+      "title": "d",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your average heart rate is 74bpm to 77bpm\n"
+              },
+              {
+                "text": "If you wish to enter another age type in \"2\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_25_1592047621261",
+      "conditions": "#d",
+      "dialog_node": "node_35_1592047621280",
+      "previous_sibling": "node_32_1592047621280"
+    },
+    {
+      "type": "standard",
+      "title": "c",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your average heart rate is 74bpm to 78bpm\n"
+              },
+              {
+                "text": "If you wish to enter another age type in \"2\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_25_1592047621261",
+      "conditions": "#c",
+      "dialog_node": "node_32_1592047621280",
+      "previous_sibling": "node_29_1592047621279"
+    },
+    {
+      "type": "standard",
+      "title": "e",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your average heart rate is 74bpm to 77bpm\n"
+              },
+              {
+                "text": "If you wish to enter another age type in \"2\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_25_1592047621261",
+      "conditions": "#e",
+      "dialog_node": "node_38_1592047621280",
+      "previous_sibling": "node_35_1592047621280"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I only have a limited response selection, please try again."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_25_1592047621261",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_25_1592047621261"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_44_1592047621280",
+      "previous_sibling": "node_41_1592047621280"
+    },
+    {
+      "type": "standard",
+      "title": "b",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your average heart rate is 73bpm to 76bpm\n"
+              },
+              {
+                "text": "If you wish to enter another age type in \"2\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_25_1592047621261",
+      "conditions": "#b",
+      "dialog_node": "node_29_1592047621279",
+      "previous_sibling": "node_26_1592047621279"
+    },
+    {
+      "type": "standard",
+      "title": "a",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your average heart rate is 74bpm to 78bpm\n"
+              },
+              {
+                "text": "If you wish to enter another age type in \"2\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_25_1592047621261",
+      "conditions": "#a",
+      "dialog_node": "node_26_1592047621279"
+    },
+    {
+      "type": "standard",
+      "title": "c",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your average heart rate is 71bpm to 75bpm\n"
+              },
+              {
+                "text": "If you wish to enter another age type in \"2\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1592041270160",
+      "conditions": "#c",
+      "dialog_node": "node_13_1592047400669",
+      "previous_sibling": "node_10_1592047353313"
+    },
+    {
+      "type": "standard",
+      "title": "f",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your average heart rate is 70bpm to 73bpm\n"
+              },
+              {
+                "text": "If you wish to enter another age type in \"2\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1592041270160",
+      "conditions": "#f",
+      "dialog_node": "node_22_1592047510304",
+      "previous_sibling": "node_19_1592047477788"
+    },
+    {
+      "type": "standard",
+      "title": "d",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your average heart rate is 72bpm to 76bpm\n"
+              },
+              {
+                "text": "If you wish to enter another age type in \"2\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1592041270160",
+      "conditions": "#d",
+      "dialog_node": "node_16_1592047443423",
+      "previous_sibling": "node_13_1592047400669"
+    },
+    {
+      "type": "standard",
+      "title": "b",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your average heart rate is 71bpm to 74bpm\n"
+              },
+              {
+                "text": "If you wish to enter another age type in \"2\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1592041270160",
+      "conditions": "#b",
+      "dialog_node": "node_10_1592047353313",
+      "previous_sibling": "node_1_1592045287571"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I only have a limited response selection, please try again."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1592041270160",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1592041270160"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_10_1592047339305",
+      "previous_sibling": "node_22_1592047510304"
+    },
+    {
+      "type": "standard",
+      "title": "e",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your average heart rate is 72bpm to 75bpm\n"
+              },
+              {
+                "text": "If you wish to enter another age type in \"2\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1592041270160",
+      "conditions": "#e",
+      "dialog_node": "node_19_1592047477788",
+      "previous_sibling": "node_16_1592047443423"
+    },
+    {
+      "type": "standard",
+      "title": "a",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your average heart rate is 70bpm to 73bpm\n"
+              },
+              {
+                "text": "If you wish to enter another age type in \"2\"\nIf you wish to return to the front page, type \"#\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1592041270160",
+      "conditions": "#a",
+      "dialog_node": "node_1_1592045287571"
+    },
+    {
+      "type": "standard",
+      "title": "# ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_22_1592047510304",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_24_1592047510316",
+      "previous_sibling": "node_23_1592047510316"
+    },
+    {
+      "type": "standard",
+      "title": "2",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_22_1592047510304",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1592040145750"
+      },
+      "conditions": "#2",
+      "dialog_node": "node_23_1592047510316"
+    },
+    {
+      "type": "standard",
+      "title": "# ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_26_1592047621279",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_28_1592047621279",
+      "previous_sibling": "node_27_1592047621279"
+    },
+    {
+      "type": "standard",
+      "title": "2",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_26_1592047621279",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1592040145750"
+      },
+      "conditions": "#2",
+      "dialog_node": "node_27_1592047621279"
+    },
+    {
+      "type": "standard",
+      "title": "What is the emergency number and non emergency to call",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Which service's number do you wish to know:\n-Police\n-Ambulance\n-Fire station"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#4",
+      "dialog_node": "node_7_1592040154698",
+      "previous_sibling": "node_2_1592040152547"
+    },
+    {
+      "type": "standard",
+      "title": "What is the average footsteps I clocked for this month",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Based on the data collected from your app, your average steps for this month is 50 steps."
+              },
+              {
+                "text": "Do you wish to ask another question?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#3",
+      "dialog_node": "node_2_1592040152547",
+      "previous_sibling": "node_8_1592040145750"
+    },
+    {
+      "type": "standard",
+      "title": "wrong input",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I only have a limited response selection, please try again."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_6_1592040602955",
+      "previous_sibling": "node_7_1592040154698"
+    },
+    {
+      "type": "standard",
+      "title": "What is the normal heart rate of my age group?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are you Male or Female?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#2",
+      "dialog_node": "node_8_1592040145750",
+      "previous_sibling": "node_1_1592040143246"
+    },
+    {
+      "type": "standard",
+      "title": "Check my average heart rate",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your average heart rate based on data collected daily is : 70bpm"
+              },
+              {
+                "text": "Do you wish to ask another question?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "#1",
+      "dialog_node": "node_1_1592040143246"
+    },
+    {
+      "type": "standard",
+      "title": "# ",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_16_1592047443423",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#hastag",
+      "dialog_node": "node_18_1592047443434",
+      "previous_sibling": "node_17_1592047443434"
+    },
+    {
+      "type": "standard",
+      "title": "2",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_16_1592047443423",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1592040145750"
+      },
+      "conditions": "#2",
+      "dialog_node": "node_17_1592047443434"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you for using our chat-bot. Have a nice day"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1592040143246",
+      "conditions": "#No",
+      "dialog_node": "node_4_1592040791641",
+      "previous_sibling": "node_4_1592040763308"
+    },
+    {
+      "type": "standard",
+      "parent": "node_1_1592040143246",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "#Yes",
+      "dialog_node": "node_4_1592040763308"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "hello, welcome to your personalized health assistance, please key in the number corresponding to the following options:\n1.  Check my average heart rate\n2.  What is the normal heart rate of my age group?\n3.  What is the average footsteps I clocked for this month\n4.  What is the emergency number and non emergency to call"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome",
+      "disambiguation_opt_out": true
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "chat copy copy",
+  "language": "en",
+  "description": ""
+}
